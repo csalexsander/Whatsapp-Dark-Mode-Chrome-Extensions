@@ -1,0 +1,8 @@
+#setThemeModeButton {
+  color: #648d89;
+  font-size: 1rem;
+  font-weight: 500;
+  background-color: transparent;
+  border: none;
+  cursor: pointer;
+}
